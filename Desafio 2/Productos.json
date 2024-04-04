@@ -1,0 +1,20 @@
+[
+  {
+    "id": 4,
+    "title": "Manzana 2",
+    "description": "manzana verde el litoral",
+    "price": 1300,
+    "thumbnail": "imagen de manzana 2",
+    "code": 12,
+    "stock": 1
+  },
+  {
+    "id": 5,
+    "title": "Pera",
+    "description": "pera dulce la mas dulce",
+    "price": 1500,
+    "thumbnail": "imagen de pera",
+    "code": 4562,
+    "stock": 7
+  }
+]
