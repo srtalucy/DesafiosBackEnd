@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Banana",
+    "description": "bananas del ecuador con sticker",
+    "price": 500,
+    "thumbnail": "imagen de banana",
+    "code": 4856,
+    "stock": 6
+  },
+  {
+    "id": 2,
+    "title": "Banana",
+    "description": "bananas del ecuador con sticker",
+    "price": 500,
+    "thumbnail": "imagen de banana",
+    "code": 4856,
+    "stock": 6
+  },
+  {
+    "id": 3,
+    "title": {
+      "title": "Pera",
+      "description": "aaaaa",
+      "price": 50550,
+      "thumbnail": "imagen de pera",
+      "code": 48545766,
+      "stock": 412146
+    }
+  },
+  {
+    "id": 4,
+    "title": {
+      "title": "Manzana",
+      "description": "una rica manzana roja",
+      "price": 1000,
+      "thumbnail": "imagen de manzana",
+      "code": 1222,
+      "stock": 1
+    }
+  }
+]
